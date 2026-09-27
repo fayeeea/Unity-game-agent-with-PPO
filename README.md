@@ -51,7 +51,7 @@ This project connects a simple Unity based combat environment to a custom PyTorc
                        Next episode
 ```
 
-Unity handles character movement, attack and parry mechanics, health, and episode termination. Python handles state preprocessing, policy inference, rollout collection, and PPO updates. Communication uses newline-delimited JSON over a local TCP connection.
+Unity handles character movement, attack and parry mechanics, health, and episode termination. Python handles state preprocessing, policy inference, rollout collection, and PPO updates.
 
 ## Model Architecture
 
